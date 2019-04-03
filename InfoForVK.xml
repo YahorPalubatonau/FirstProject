@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Information>
+    <METHOD_POST>post</METHOD_POST>
+    <METHOD_EDIT>edit</METHOD_EDIT>
+    <PARAM_MESSAGE>message</PARAM_MESSAGE>
+    <VALUE>ДА ПРИБУДЕТ С НАМИ СИЛА!</VALUE>
+    <POST_ID>post_id</POST_ID>
+    <NEW_VALUE>ДА ПРИБУДЕТ С НАМИ БУЛЬБА!</NEW_VALUE>
+    <ACESS_TOKEN>access_token</ACESS_TOKEN>
+    <BEGIN_INDEX>23</BEGIN_INDEX>
+    <END_INDEX>26</END_INDEX>
+    <OWNER_ID>owner_id</OWNER_ID>
+    <ID>21117163</ID>
+    <VERSOIN>v</VERSOIN>
+    <NUMBER_OF_VERSION>5.92</NUMBER_OF_VERSION>
+    <TOKEN>56ef8805d3dcbc2c6d1fb7ffbcb048ed6e81bf36cf9b1caa4518d8051047f6a2472629edebd145e59037f</TOKEN>
+    <HTTPS>https://api.vk.com/method/wall.%s?</HTTPS>
+</Information>
