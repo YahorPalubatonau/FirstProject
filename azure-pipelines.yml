@@ -7,7 +7,7 @@ trigger:
 - none
 
 pool:
-  name: -master
+ vmImage: -latest
 
 steps:
 - task: Maven@3
